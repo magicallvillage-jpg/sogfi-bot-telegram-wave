@@ -2,7 +2,7 @@
 import os
 
 MONGO_URL = os.getenv("MONGO_URL")
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+BOT_TOKEN = os.getenv("BOT_TOKEN2")
 # Telegram Bot Token
 BOT_TOKEN = BOT_TOKEN;
 MONGO_URL = MONGO_URL;
