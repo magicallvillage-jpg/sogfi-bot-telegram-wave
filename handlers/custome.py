@@ -13,7 +13,7 @@ from config import SUDO_USERS
 logger = logging.getLogger(__name__)
 
 IMGBB_API_KEY = "29660d38fea001b1ae4dab1f35c605a6"
-CHANNEL_ID = -1002594115750
+CHANNEL_ID = -1004341552881
 
 def is_valid_url(url: str) -> bool:
     url_pattern = r'^https://[^\s/$.?#].[^\s]*$'
