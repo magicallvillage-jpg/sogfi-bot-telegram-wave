@@ -1,24 +1,15 @@
 # config.py
 
 # Telegram Bot Token
-BOT_TOKEN = "8450613083:AAHTuSuKgSTFIhOgFLnEYh0Ix07kEsr58AI"
-MONGO_URL = "mongodb://shuya:9fcc60263a946ef550d11406667404fa@127.0.0.1:27017/?replicaSet=rs0&authSource=admin"
-CHANNEL_ID = -1002561997815
-CHANNEL_USERNAME = "@takedbchannel"
+BOT_TOKEN = "8889032260:AAEXL2ztDZweDVNNkySryIBs0GqqIMrHz8M"
+MONGO_URL = "mongosh "mongodb+srv://cluster0.6p2dkan.mongodb.net/" --apiVersion 1 --username magicallvillage_db_user --password hwl8JEKP148Vk3mr"
+CHANNEL_ID = -1004341552881
+CHANNEL_USERNAME = "@sogficannel"
 
 # Set of authorized user IDs who can add/remove uploaders
 AUTHORIZED_USERS = {
-    7453473569,
-    6857856691,
-    6353916710,
-    760680138,
-    5147271956,
-    2059829797,
-    1890903731,
-    7598028800,
-    7301761385,
-    7886646898,
-    8259215649
+   8153074687,
+   6921604351
 }
 
 # Rarity mapping
@@ -40,11 +31,8 @@ RARITY_MAPPING = {
 
 }
 SUDO_USERS = {
-    6857856691,
-    1890903731,
-    760680138,
-    5147271956,
-    7886646898
+    8153074687,
+   6921604351
 }
 
 # Event emoji mapping
