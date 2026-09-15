@@ -3,3 +3,5 @@ motor
 aiohttp
 cachetools
 regex
+certifi
+python-dotenv
