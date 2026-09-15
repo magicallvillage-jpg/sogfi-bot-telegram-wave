@@ -1,8 +1,11 @@
 # config.py
+import os
 
+MONGO_URL = os.getenv("MONGO_URL")
+BOT_TOKEN = os.getenv("BOT_TOKEN")
 # Telegram Bot Token
-BOT_TOKEN = "8889032260:AAEXL2ztDZweDVNNkySryIBs0GqqIMrHz8M"
-MONGO_URL = "mongosh "mongodb+srv://cluster0.6p2dkan.mongodb.net/" --apiVersion 1 --username magicallvillage_db_user --password hwl8JEKP148Vk3mr"
+BOT_TOKEN = BOT_TOKEN;
+MONGO_URL = MONGO_URL;
 CHANNEL_ID = -1004341552881
 CHANNEL_USERNAME = "@sogficannel"
 
