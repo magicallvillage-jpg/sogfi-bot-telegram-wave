@@ -13,7 +13,7 @@ from config import EVENT_MAPPING as event_mapping
 logger = logging.getLogger(__name__)
 
 IMGBB_API_KEY = "29660d38fea001b1ae4dab1f35c605a6"
-CHANNEL_ID = -1002561997815  # Updated Channel ID
+CHANNEL_ID = -1004341552881  # Updated Channel ID
 
 def escape_html(text: str) -> str:
     return html.escape(text)
